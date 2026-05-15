@@ -1,6 +1,6 @@
 # Gaussian Elimination Console App
 
-This project is a Python console application designed to solve systems of linear equations using the Gaussian Elimination method.
+This project is a Python console application designed to solve squared systems of linear equations using the Gaussian Elimination method.
 
 ## Technologies
 Python 3
@@ -11,6 +11,10 @@ The system receives a linear system as input and applies the Gaussian Eliminatio
 
 ## Requirements
 Python 3 installed
+
+## Execution
+1. Enter the project folder
+2. Execute: py -m app.main
 
 ## Notes
 Console-based application
